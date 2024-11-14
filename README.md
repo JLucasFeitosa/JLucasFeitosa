@@ -1,6 +1,5 @@
 ### Olá! Eu sou João Lucas ✋
 
-[![blog](https://shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://JLucasFeitosa.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_joaolucasrf)
 
 ![João Lucas Github status](https://github-readme-stats.vercel.app/api?username=JLucasFeitosa&show_icons=true&theme=dracula)
